@@ -1,0 +1,1 @@
+rm -rf .cache .clangd .vscode bin build lib compile_commands.json
